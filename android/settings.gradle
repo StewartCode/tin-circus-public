@@ -1,0 +1,3 @@
+rootProject.name = 'tin_circus'
+
+include ':app'
